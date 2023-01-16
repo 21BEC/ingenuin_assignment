@@ -1,6 +1,4 @@
 # ingenuin_assignment
-assignment_repository
-<!DOCTYPE html>
 <html>
     <head>
         <title>peer graded Assignment 2</title></head>
